@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#afb0b4</color>
+    <color name="colorPrimaryDark">#939296</color>
+    <color name="colorAccent">#c9c9c9</color>
+    <color name="string">#282828</color>
+    <color name="counter">#a92d26</color>
+    <color name="well">#258622</color>
+    <color name="bad">#7c1515</color>
+    <color name="button">#003de6</color>
+    <color name="question">#740000</color>
+</resources>

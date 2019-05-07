@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "534127623543",
+    "firebase_url": "https://english-exam-ae277.firebaseio.com",
+    "project_id": "english-exam-ae277",
+    "storage_bucket": "english-exam-ae277.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534127623543:android:dd27847e2db49b4e",
+        "android_client_info": {
+          "package_name": "com.english.exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534127623543-d49usait0g44hnd6b8h833nnkp3cvpsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.english.exam",
+            "certificate_hash": "045442920c43834537f93562f4ebc9dd75b0e35e"
+          }
+        },
+        {
+          "client_id": "534127623543-qevq30h3lerlor0lsuqvr88qu7k5bgci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1tQ5QL_-6zooR8pbRlKaYoemvGH9EcVU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534127623543-qevq30h3lerlor0lsuqvr88qu7k5bgci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
